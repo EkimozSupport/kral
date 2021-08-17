@@ -1,4 +1,4 @@
-# Calls Music 1 — [pytgcalls](https://github.com/MarshalX/tgcalls)-based group call bot with queue and multiple chat support
+# Calls Music 1 — [pytgcalls](https://github.com/EkimozSupport/kral)-based group call bot with queue and multiple chat support
 
 ## Requirements
 
@@ -35,7 +35,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ### Heroku
 
-[Click here](https://heroku.com/deploy?template=https://github.com/callsmusic/callsmusic)
+[Click here](https://heroku.com/deploy?template=https://github.com/EkimozSupport/kral)
 
 ## Commands
 
